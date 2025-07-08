@@ -5,6 +5,11 @@ in the file for you to be able to run it
 . 
 
 
+
+
+
+
+
 Download script
 .
 ensure LOTUS_DESIGNS_CHAT in server cfg
