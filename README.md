@@ -3,13 +3,6 @@ Sleek Chat for your fivem server and fully customizable dependency
 in the file for you to be able to run it
 # how to install 
 . 
-
-
-
-
-
-
-
 Download script
 .
 ensure LOTUS_DESIGNS_CHAT in server cfg
